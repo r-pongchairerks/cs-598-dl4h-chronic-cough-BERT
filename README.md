@@ -2,6 +2,7 @@
 
 This is the repository for the reproduction of the original paper "Applying interpretable deep learning models to identify chronic cough patients using EHR data", X. Luo, P. Gandhi, Z. Zhang et al. (2021), as part of the final project for CS-598 Deep Learning for Healthcare. The original paper does not publish the code but there are some references for the [BioWord2Vec](https://github.com/ncbi-nlp/BioSentVec) that can be useful. 
 
+This study requires the pretrianed BioWord2Vec model which can be downloaded from [here](https://ftp.ncbi.nlm.nih.gov/pub/lu/Suppl/BioSentVec/BioWordVec_PubMed_MIMICIII_d200.vec.bin).
 
 
 ## Reference(s)
